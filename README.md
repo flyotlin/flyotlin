@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @flyotlin
-- 👀 I’m interested in Web Backend Development, Distributed System, Software Engineering, DevOps.
+- 👀 I’m interested in Web Development, Distributed System, Software Engineering, DevOps.
 - 🌱 I’m currently learning ...
-  - distributing computing and storage (Hadoop, Kubernetes)
-- 💞️ I’m looking to collaborate on ...
+  - Frontend development (zod, tanstack query)
+- 💞️ I’m currently looking for a full-time job
 - 📫 How to reach me
-  - Email: flyotlin@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/po-ru-lin-956334194/
+  - [Email](mailto:flyotlin@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/flyotlin/)
+  - [Blog](https://flyotlin.github.io)
 
 <!---
 flyotlin/flyotlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
